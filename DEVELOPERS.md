@@ -23,6 +23,12 @@ cl /nologo /O2 /W4 /WX /Ob2 /Oi /Oy /Gs- /GF /Gy /Tc main.c /Fe:Launcher.exe Adv
 ```
 
 Optionally, to add an icon to the exe, create and link a resource with
+```
+build_wsl.bat
+```
+
+or
+
 ```cmd
 SET YourDistroName=Fedora
 
