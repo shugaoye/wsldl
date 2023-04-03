@@ -10,5 +10,5 @@ require (
 	github.com/yuk7/wsllib-go v1.0.0
 	github.com/yuk7/wslreglib-go v1.0.1
 	golang.org/x/text v0.3.7
-	muzzammil.xyz/jsonc v0.0.0-20211230184646-baf1f7156737
+	muzzammil.xyz/jsonc v1.0.0
 )
